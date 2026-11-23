@@ -1,0 +1,7 @@
+data/
+figures/rq3/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.part
+.DS_Store
